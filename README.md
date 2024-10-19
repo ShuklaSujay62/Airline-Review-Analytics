@@ -1,6 +1,5 @@
 # Airline-Review-Analytics
 
-# Airline Review Insights
 
 ## Project Overview
 
