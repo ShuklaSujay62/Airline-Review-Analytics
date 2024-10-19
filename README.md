@@ -45,6 +45,11 @@ Throughout the analysis, several visualizations were created to depict customer 
 ## Conclusion
 
 The analysis provides valuable insights into customer satisfaction with various airlines. Visualizations highlight trends, preferences, and areas for improvement in airline services. The project emphasizes the importance of data-driven decision-making in the aviation industry.
+Impact:
+
+- Identified top-rated airlines based on customer feedback.
+- Provided actionable insights into customer satisfaction trends, helping inform business decisions for improving airline services.
+
 
 ## Technologies Used
 
