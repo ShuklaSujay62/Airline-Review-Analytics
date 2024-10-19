@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-**Airline Review Insights** is a data analysis project that explores customer ratings and reviews for various airlines. The objective is to visualize trends, assess customer satisfaction, and gain insights into factors affecting airline ratings. This project utilizes Python libraries such as Pandas, Matplotlib, and Seaborn for data manipulation and visualization.
+**Airline Review Analytics** is a data analysis project that explores customer ratings and reviews for various airlines. The objective is to visualize trends, assess customer satisfaction, and gain insights into factors affecting airline ratings. This project utilizes Python libraries such as Pandas, Matplotlib, and Seaborn for data manipulation and visualization.
 
 ## Table of Contents
 
